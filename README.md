@@ -18,7 +18,7 @@ Smallest Vi-clone Text Editor for Windows (62KB).
 
 ## Download
 
-- See the release page.
+- Executable file can be download from the [release](https://github.com/skywind3000/zvi/releases) page.
 
 
 ## Source
