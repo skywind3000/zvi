@@ -1,6 +1,6 @@
 # Z-VI
 
-Smallest Vi-clone Text Editor for Windows (62KB) that runs in terminal.
+Smallest Vi-clone Text Editor for Windows (62KB) that runs in terminal and SSH sessions.
 
 ## Features
 
