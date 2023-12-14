@@ -4,7 +4,7 @@ Smallest Vi-clone Text Editor for Windows (62KB).
 
 ## Features
 
-- Portable, distrubted as a single executable.
+- Portable, distrubted as a single executable file.
 - Smallest full function vi-clone, **only 62KB**.
 - Offers a wide range of vi functions: search (`/` and `?`), undo (`u`), repeat (`.`), and marks (`m{letter}`).
 - Named register for yank/paste: `"a3yy` and `"ap`.
@@ -18,7 +18,21 @@ Smallest Vi-clone Text Editor for Windows (62KB).
 
 ## Download
 
-- Executable file can be download from the [release](https://github.com/skywind3000/zvi/releases) page.
+- Executable file can be found in the [release](https://github.com/skywind3000/zvi/releases) page.
+
+## Screenshots
+
+Runs remotely in an SSH session to a Windows 10 server (using PuTTY):
+
+![](https://skywind3000.github.io/images/p/zvi/zvi_ssh.png)
+
+Runs natively on Windows 7:
+
+![](https://skywind3000.github.io/images/p/zvi/zvi_win7.png)
+
+Runs natively on Windows XP:
+
+![](https://skywind3000.github.io/images/p/zvi/zvi_xp.png)
 
 
 ## Source
