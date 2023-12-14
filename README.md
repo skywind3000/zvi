@@ -13,6 +13,7 @@ Smallest Vi-clone Text Editor for Windows (62KB) that runs in terminal and SSH s
 - Adapt to window re-sizes.
 - Can be used in ssh sessions and none-GUI environments (eg. server container).
 - Even runs on Windows XP and Windows 7.
+- Supports `%USERPROFILE%\.exrc` configuration.
 - Ideal for occasional or emergency use.
 
 
