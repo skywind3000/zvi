@@ -1,10 +1,10 @@
 # Z-VI
 
-Smallest Vi-clone Text Editor for Windows (62KB).
+Smallest Vi-clone Text Editor for Windows (62KB) that runs in terminal.
 
 ## Features
 
-- Smallest full function vi-clone, **only 62KB**.
+- Smallest full function vi-clone text editor, **only 62KB**.
 - Portable, distrubted as a single executable file.
 - Offers a wide range of vi functions: search (`/` and `?`), undo (`u`), repeat (`.`), and marks (`m{letter}`).
 - Named register for yank/paste: `"a3yy` and `"ap`.
