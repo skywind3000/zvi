@@ -4,12 +4,12 @@ Smallest Vi-clone Text Editor for Windows (62KB).
 
 ## Features
 
-- Portable, distrubted as a single executable file.
 - Smallest full function vi-clone, **only 62KB**.
+- Portable, distrubted as a single executable file.
 - Offers a wide range of vi functions: search (`/` and `?`), undo (`u`), repeat (`.`), and marks (`m{letter}`).
 - Named register for yank/paste: `"a3yy` and `"ap`.
-- Supports multiple files with commands such as `:next`, `:prev`, and `:rewind`.
-- Some colon mode commands with `:` (can be listed with `:set`).
+- Supports multiple files with commands like `:next`, `:prev`, and `:rewind`.
+- Some colon mode commands with `:` (available options can be listed with `:set`).
 - Adapt to window re-sizes.
 - Can be used in ssh sessions and none-GUI environments (eg. server container).
 - Even runs on Windows XP and Windows 7.
