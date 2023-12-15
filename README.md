@@ -24,7 +24,7 @@ Smallest Vi-clone text editor for Windows (62KB) that runs in terminal and SSH s
 
 ## Screenshots
 
-Runs remotely in an SSH session to a Windows 10 server (using PuTTY):
+Runs remotely over an SSH session on a Windows 10 server (using PuTTY):
 
 ![](https://skywind3000.github.io/images/p/zvi/zvi_ssh.png)
 
