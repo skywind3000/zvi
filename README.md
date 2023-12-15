@@ -1,6 +1,6 @@
 # Z-VI
 
-Smallest Vi-clone Text Editor for Windows (62KB) that runs in terminal and SSH sessions.
+Smallest Vi-clone text editor for Windows (62KB) that runs in terminal and SSH sessions.
 
 ## Features
 
@@ -15,6 +15,7 @@ Smallest Vi-clone Text Editor for Windows (62KB) that runs in terminal and SSH s
 - Even runs on Windows XP and Windows 7.
 - Supports `%USERPROFILE%\.exrc` configuration.
 - Ideal for occasional or emergency use.
+- Ideal for keeping it in your rescue USB-stick.
 
 
 ## Download
