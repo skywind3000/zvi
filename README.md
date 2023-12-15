@@ -59,7 +59,7 @@ then just:
 ```
 copy ../zvi/.config .     # use the predefined configuration
 make
-ren busybox.exe zvi.exe
+mv busybox.exe zvi.exe
 ```
 
 ## Credit
